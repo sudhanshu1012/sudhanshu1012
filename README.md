@@ -16,6 +16,13 @@
 </div>
 </details>
 
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FjYzgxMjMxb21qcDgwcng3a2l1NDgyamljeGFwb2FhMHByaW1jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+
+###
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="25" /> I’m currently working on **MySQL Project-RCB IPL Analysis** and various data projects. <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" width="25" /> I’m open to contributing in **Data Analyst Role**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="25" /> Ask me about **MS Excel, SQL, Power BI, and Dashboarding.** <br>
@@ -42,14 +49,6 @@
 ![Excel](https://img.shields.io/badge/Excel-%230072C6.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - Profile Views:
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FjYzgxMjMxb21qcDgwcng3a2l1NDgyamljeGFwb2FhMHByaW1jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://count.getloli.com/@:sudhanshu1012?theme=moebooru&padding=7&offset=3&scale=2&align=bottom&pixelated=1&darkmode=auto"  />
