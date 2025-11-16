@@ -46,30 +46,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<!-- Skill badges -->
 ![Excel](https://img.shields.io/badge/Excel-%230072C6.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="github stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="streak" /></p>
-
-<h4>Profile Viewers</h4>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg?"  />
-</div>
-
-<div align="center">
-  <h2>My Contributions</h2>
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="contributions">
-</div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-[![GitHub | Stats](https://stats.quine.sh/YOUR_GITHUB_USERNAME/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=profile)
-
-[![Holopin badges](https://holopin.me/YOUR_HOLOPIN_ID)](https://holopin.io/@YOUR_HOLOPIN_ID)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
