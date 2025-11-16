@@ -19,22 +19,15 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="25" /> I’m currently working on **MySQL Project-RCB IPL Analysis** and various data projects. <br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" width="25" /> I’m open to contributing in **Data Analyst Role**<br>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="25" /> Ask me about **MS Excel, SQL, Power BI, and Dashboarding.** <br>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" /> How to reach me :  
-  <a href="https://www.linkedin.com/in/sudhanshu-tiwari-845aa6353/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin"  /></a>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshu1103t@gmail.com)
-  <br>
-  Email: <code>sudhanshu1103t@gmail.com</code>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/sudhanshu-tiwari-845aa6353/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-
-<a href="mailto:sudhanshu1103t@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/email.png" height="30" width="40" />
-</a>
-
-</p>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" /> How to reach me :
+ <div align="left">
+  <a href="https://www.linkedin.com/in/sudhanshu-tiwari-845aa6353/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="76" height="51" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sudhanshu1103t@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="76" height="51" alt="gmail logo"  />
+  </a>
+</div>
 
 <h3 align="left">
  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Fire.png" width="50">Languages and Tools:</h3>
@@ -48,3 +41,32 @@
 
 ![Excel](https://img.shields.io/badge/Excel-%230072C6.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+- Profile Views:
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FjYzgxMjMxb21qcDgwcng3a2l1NDgyamljeGFwb2FhMHByaW1jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:sudhanshu1012?theme=moebooru&padding=7&offset=3&scale=2&align=bottom&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudhanshu1012/sudhanshu1012/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudhanshu1012/sudhanshu1012/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sudhanshu1012/sudhanshu1012/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
